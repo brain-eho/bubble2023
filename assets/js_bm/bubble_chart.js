@@ -174,7 +174,7 @@ var agecatCenters = { // Center locations of the bubbles.
     'Stimmt ganz': 100,
     'Stimmt eher': 350, 
     'Stimmt eher nicht': 650, 
-    '<span style="color:red">Stimmt nicht</span>': 900
+    'Stimmt nicht': 900
   };
     
   var concernTitleY = {  // Y locations of the year titles.
