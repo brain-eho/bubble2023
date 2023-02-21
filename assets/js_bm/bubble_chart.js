@@ -182,7 +182,7 @@ var agecatCenters = { // Center locations of the bubbles.
     'Stimmt ganz': 70,
     'Stimmt eher': 70, 
     'Stimmt eher nicht': 70, 
-    <span style="color:red">Stimmt nicht' + '</span>' + : 70
+    'Stimmt nicht': 70
   };  
     
 // Sechster Button: Geldentschädigung
